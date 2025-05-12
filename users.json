@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "gender": "female",
+    "name": { "title": "Ms", "first": "Iiris", "last": "Halla" },
+    "location": {
+      "street": { "name": "Hämeenkatu" },
+      "city": "Laihia",
+      "state": "Finland Proper",
+      "country": "Finland",
+      "postcode": "27352"
+    },
+    "email": "iiris.halla@example.com",
+    "dob": { "date": "1954-11-23T10:10:17.582Z" },
+    "phone": "02-962-175",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Jari", "last": "Virtanen" },
+    "location": {
+      "street": { "name": "Keskuskatu" },
+      "city": "Jyväskylä",
+      "state": "Central Finland",
+      "country": "Finland",
+      "postcode": "40100"
+    },
+    "email": "jari.virtanen@example.com",
+    "dob": { "date": "1982-06-18T14:20:30.123Z" },
+    "phone": "040-112-3344",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "gender": "female",
+    "name": { "title": "Ms", "first": "Sofia", "last": "Korhonen" },
+    "location": {
+      "street": { "name": "Satamakatu" },
+      "city": "Tampere",
+      "state": "Pirkanmaa",
+      "country": "Finland",
+      "postcode": "33200"
+    },
+    "email": "sofia.korhonen@example.com",
+    "dob": { "date": "1990-03-05T09:15:47.991Z" },
+    "phone": "050-987-1234",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Aapo", "last": "Laine" },
+    "location": {
+      "street": { "name": "Mannerheimintie" },
+      "city": "Helsinki",
+      "state": "Uusimaa",
+      "country": "Finland",
+      "postcode": "00100"
+    },
+    "email": "aapo.laine@example.com",
+    "dob": { "date": "1977-12-01T22:12:45.000Z" },
+    "phone": "045-888-9988",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "gender": "female",
+    "name": { "title": "Mrs", "first": "Helmi", "last": "Nieminen" },
+    "location": {
+      "street": { "name": "Aleksanterinkatu" },
+      "city": "Espoo",
+      "state": "Uusimaa",
+      "country": "Finland",
+      "postcode": "02100"
+    },
+    "email": "helmi.nieminen@example.com",
+    "dob": { "date": "1965-02-25T08:33:12.001Z" },
+    "phone": "09-555-7777",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Eero", "last": "Manninen" },
+    "location": {
+      "street": { "name": "Linnankatu" },
+      "city": "Turku",
+      "state": "Southwest Finland",
+      "country": "Finland",
+      "postcode": "20100"
+    },
+    "email": "eero.manninen@example.com",
+    "dob": { "date": "1995-09-11T11:55:23.582Z" },
+    "phone": "044-321-1233",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "gender": "female",
+    "name": { "title": "Miss", "first": "Ella", "last": "Heikkinen" },
+    "location": {
+      "street": { "name": "Rautatienkatu" },
+      "city": "Oulu",
+      "state": "Northern Ostrobothnia",
+      "country": "Finland",
+      "postcode": "90100"
+    },
+    "email": "ella.heikkinen@example.com",
+    "dob": { "date": "2001-07-02T18:45:00.123Z" },
+    "phone": "046-456-7890",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Onni", "last": "Lehtinen" },
+    "location": {
+      "street": { "name": "Kauppakatu" },
+      "city": "Kuopio",
+      "state": "North Savo",
+      "country": "Finland",
+      "postcode": "70100"
+    },
+    "email": "onni.lehtinen@example.com",
+    "dob": { "date": "1988-11-19T13:40:00.000Z" },
+    "phone": "050-222-5544",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "gender": "female",
+    "name": { "title": "Ms", "first": "Aino", "last": "Rantanen" },
+    "location": {
+      "street": { "name": "Pääkatu" },
+      "city": "Kajaani",
+      "state": "Kainuu",
+      "country": "Finland",
+      "postcode": "87100"
+    },
+    "email": "aino.rantanen@example.com",
+    "dob": { "date": "1972-10-10T09:00:00.000Z" },
+    "phone": "040-998-8776",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Veeti", "last": "Savolainen" },
+    "location": {
+      "street": { "name": "Rantatie" },
+      "city": "Joensuu",
+      "state": "North Karelia",
+      "country": "Finland",
+      "postcode": "80100"
+    },
+    "email": "veeti.savolainen@example.com",
+    "dob": { "date": "2000-01-01T00:00:00.000Z" },
+    "phone": "041-222-3344",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
+    }
+  },
+  {
+    "id": 11,
+    "gender": "female",
+    "name": { "title": "Mrs", "first": "Saara", "last": "Koski" },
+    "location": {
+      "street": { "name": "Koulukatu" },
+      "city": "Vaasa",
+      "state": "Ostrobothnia",
+      "country": "Finland",
+      "postcode": "65100"
+    },
+    "email": "saara.koski@example.com",
+    "dob": { "date": "1960-05-30T10:00:00.000Z" },
+    "phone": "042-445-1122",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
+    }
+  },
+  {
+    "id": 12,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Topias", "last": "Seppälä" },
+    "location": {
+      "street": { "name": "Kirkkokatu" },
+      "city": "Rovaniemi",
+      "state": "Lapland",
+      "country": "Finland",
+      "postcode": "96100"
+    },
+    "email": "topias.seppala@example.com",
+    "dob": { "date": "1999-09-15T17:12:34.321Z" },
+    "phone": "050-321-7765",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    }
+  },
+  {
+    "id": 13,
+    "gender": "female",
+    "name": { "title": "Ms", "first": "Venla", "last": "Salmi" },
+    "location": {
+      "street": { "name": "Raatihuoneenkatu" },
+      "city": "Hyvinkää",
+      "state": "Uusimaa",
+      "country": "Finland",
+      "postcode": "05800"
+    },
+    "email": "venla.salmi@example.com",
+    "dob": { "date": "1993-08-08T15:00:00.000Z" },
+    "phone": "040-777-3322",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+    }
+  },
+  {
+    "id": 14,
+    "gender": "male",
+    "name": { "title": "Mr", "first": "Lauri", "last": "Aalto" },
+    "location": {
+      "street": { "name": "Yliopistonkatu" },
+      "city": "Lappeenranta",
+      "state": "South Karelia",
+      "country": "Finland",
+      "postcode": "53100"
+    },
+    "email": "lauri.aalto@example.com",
+    "dob": { "date": "1986-04-04T07:00:00.000Z" },
+    "phone": "045-998-6655",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+    }
+  },
+  {
+    "id": 15,
+    "gender": "female",
+    "name": { "title": "Ms", "first": "Noora", "last": "Haapala" },
+    "location": {
+      "street": { "name": "Pappilantie" },
+      "city": "Kokkola",
+      "state": "Central Ostrobothnia",
+      "country": "Finland",
+      "postcode": "67100"
+    },
+    "email": "noora.haapala@example.com",
+    "dob": { "date": "1975-01-11T13:11:11.111Z" },
+    "phone": "046-222-8877",
+    "picture": {
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
+    }
+  }
+]
